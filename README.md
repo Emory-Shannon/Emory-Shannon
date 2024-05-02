@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Emory-Shannon/os-ticket-prereq)
   - [osTicket: Post-Installation Configuration](https://github.com/Emory-Shannon/post-install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Emory-Shannon/ticket-lifecycle)
-  - <b>Microsoft Azure</b>
+- <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
