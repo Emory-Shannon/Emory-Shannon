@@ -5,9 +5,8 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Emory-Shannon/os-ticket-prereq)
   - [osTicket: Post-Installation Configuration](https://github.com/Emory-Shannon/post-install)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Emory-Shannon/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]()
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Emory-Shannon/Active-Directory-Config)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
 <h2>🤳Connect with me:</h2>
