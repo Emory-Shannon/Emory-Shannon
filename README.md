@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emory, an IT Profesional! 
+<h1>Hi, I'm Emory, an IT Professional! 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
